@@ -22,3 +22,4 @@ The main objective for the project is to containorize all the three compoments o
 3. Ading data persistence to MongoDB with Volumes.
 4. Volumes, Bind Mounts & Polishing for the Node.js Container.
 5. Live Source Code updates for the React.js container with Bind Mounts.
+6. Data must persist in the database.
